@@ -1,0 +1,26 @@
+.cc{
+    display: inline;
+    padding: 5px;
+    border-radius: 50%;
+    height: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: rgb(220, 226, 224);
+  }
+
+  .ikona{
+    border-radius: 20%;
+  }
+  .stopka{
+    height: 40px;
+  }
+  .icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem
+  }
+
+  .ctext{
+    background-color: rgba(125, 122, 119, 0.459);
+    border-radius:10px;
+  }
